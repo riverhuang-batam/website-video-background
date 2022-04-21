@@ -225,7 +225,7 @@ section{
         box-shadow: 0 5px 25px rgb(1 1 1 /20%)
     }
     .menu-btn{
-        background: url(menu.png)no-repeat;
+        background: url(menu.png) no-repeat;
         background-size: 30px;
         background-position: center;
         width: 40px;
